@@ -1,0 +1,32 @@
+{
+    "pools" : [
+        {
+            "name" : "The Pirate Mine",
+            "url" : "https://azur.thepiratemine.nl",
+            "api" : "https://azur.thepiratemine.nl:2893",
+            "type" : "forknote",
+            "miningAddress" : "azur.thepiratemine.nl"
+        },
+        {
+            "name" : "Crypto Mine",
+            "url" : "https://azur.cryptomine.cx",
+            "api" : "https://azur.cryptomine.cx:8009",
+            "type" : "forknote",
+            "miningAddress" : "azur.cryptomine.cx"
+        },
+        {
+            "name" : "Enigma Mining",
+            "url" : "https://pool.enigma-mining.de/azur",
+            "api" : "https://pool.enigma-mining.de:8015",
+            "type" : "forknote",
+            "miningAddress" : "enigma-mining.de"
+        },
+        {
+            "name" : "Cryptocoins Digging",
+            "url" : "http://azur.cryptocoins-digging.space:8008",
+            "api" : "http://azur.cryptocoins-digging.space",
+            "type" : "forknote",
+            "miningAddress" : "cryptocoins-digging.space"
+        }
+    ]
+}
